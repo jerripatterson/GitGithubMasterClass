@@ -1,12 +1,20 @@
 {
   "name": "codemyprojects",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerripat/GitGithubMasterClass.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jerripat/GitGithubMasterClass/issues"
+  },
+  "homepage": "https://github.com/jerripat/GitGithubMasterClass#readme",
+  "description": ""
 }
