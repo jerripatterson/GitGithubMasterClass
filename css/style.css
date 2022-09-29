@@ -1,3 +1,18 @@
 .container {
   padding: 25px 25px
 }
+h1 {
+  color:blue;
+  text-align:center;
+}
+h2{
+  color: gray;
+  text-align:center;
+}
+
+div {
+
+  background-color: blue;
+  width: 50%;
+  height:300px;
+}
